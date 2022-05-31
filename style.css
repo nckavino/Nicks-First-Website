@@ -1,6 +1,25 @@
-body {
-    background: blue;
-    font-family: Helvetica;
-    font-size: large;
-    text-align: center;
+* {
+    background: gray;
 }
+ body h1 {
+     text-align: center;
+     font-family: 'Courier';
+     text-shadow: 2px 2px purple;
+ }
+
+ body {
+     text-align: center;
+ }
+
+ body p {
+     font-size: larger;
+ }
+ 
+ body h2 {
+     text-decoration: underline;
+ }
+ 
+#bio {
+     margin: auto;
+     max-width: 800px;
+ }

@@ -1,16 +1,13 @@
-* {
-    background: gray;
+body {
+    background: #808080;
+    text-align: center;s
 }
  body h1 {
      text-align: center;
      font-family: 'Courier';
      text-shadow: 2px 2px purple;
  }
-
- body {
-     text-align: center;
- }
-
+ 
  body p {
      font-size: larger;
  }
